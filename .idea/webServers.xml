@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="89f9f8ed-89ec-4251-abe9-8ea6e117f917" name="sedr">
+        <fileTransfer rootFolder="/home/liangc/ipython/SEDR" accessType="SFTP" host="172.27.127.3" port="22" sshConfigId="f695c0fd-a220-4984-8ce6-bc93badfc852" sshConfig="liangc@172.27.127.3:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

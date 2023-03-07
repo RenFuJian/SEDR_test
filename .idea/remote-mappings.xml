@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://liangc@172.27.127.3:22/home/liangc/shixuejing/venv/bin/python" />
+        <remote-mappings server-id="python@sftp://liangc@172.27.127.3:22/home/liangc/ipython/venv/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/liangc/ipython/SEDR" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
